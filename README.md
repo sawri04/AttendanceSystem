@@ -1,5 +1,5 @@
 
-# DS Attendance System based on Face verification.
+#Atte ndance System based on Face verification.
 ## About
 
 In this Attendance System the Attendance for students is marked using Face verification.
